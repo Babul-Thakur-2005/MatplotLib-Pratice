@@ -1,1 +1,1 @@
-# 1. Create a libe plon.
+# 1. Create a line plon.
